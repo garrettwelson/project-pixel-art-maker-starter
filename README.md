@@ -1,3 +1,5 @@
+_note: if memory serves, this was the first super tiny thing I ever worked on using JavaScript so I'm keeping it around my GH for nostaligic reasons_
+
 # Pixel Art Maker Project
 
 ## Table of Contents
